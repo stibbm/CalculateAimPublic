@@ -1,5 +1,25 @@
 # Calculate Aim
 
+
+## About
+
+1) Searches video and detects events using on-screen text
+   
+2) Creates video clips of these events
+  
+3) Outlines specified details in resulting clips using object detection
+
+-----
+
+**Input**: Counter-Strike 2 game recording
+
+**Event**: Player kill or death
+
+**Highlight**: All players detected on screen
+
+-----
+
+
 ## Input
 
 https://github.com/user-attachments/assets/02f07eb5-ca7b-4916-9f8c-9154eb0773fb
