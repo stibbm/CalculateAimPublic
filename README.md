@@ -1,6 +1,6 @@
 # Calculate Aim
 
-In Progress: Moving code here from the private repo to this public repo to make sure no api keys get leaked
+***In Progress: Moving code here from the private repo to this public repo to make sure no api keys get leaked***
 
 ## About
 
