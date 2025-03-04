@@ -16,7 +16,7 @@ In Progress: Moving code here from the private repo to this public repo to make 
 
 **Event**: Player kill or death
 
-**Highlight**: All players detected on screen
+**Highlight**: Detected player nearest to center of the screen has a thin red rectangle drawn around them
 
 -----
 
