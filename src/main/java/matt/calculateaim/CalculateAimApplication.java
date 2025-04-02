@@ -13,6 +13,7 @@ public class CalculateAimApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
+		
 		System.out.println("explicitly exiting since spring boot will not automatically exit");
 		System.exit(0);
 	}
